@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhe86f/RGsklgMQ87HbGoXMo9qgPFNPXwbOP6q4WYC37rmwXEbBXa/ysnnLU11i6EkGByxsMPFP/wqfwwz/YKQ==",
+  "dgSpecHash": "2NqvDYfG2KSjameYnFFTGd9c1aJrkp5Ojftsv2wSBQKPrHslS9VqAg2pmysvOygQKSJNDi5f9A48hkfVLDtySQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\BoronTrotterESayHelloEndpoint\\BoronTrotterESayHelloEndpoint.csproj",
+  "projectFilePath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\SayHelloEndpoint\\BoronTrotterESayHelloEndpoint.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elizabeth\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\Elizabeth\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

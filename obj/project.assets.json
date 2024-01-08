@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\BoronTrotterESayHelloEndpoint\\BoronTrotterESayHelloEndpoint.csproj",
+      "projectUniqueName": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\SayHelloEndpoint\\BoronTrotterESayHelloEndpoint.csproj",
       "projectName": "BoronTrotterESayHelloEndpoint",
-      "projectPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\BoronTrotterESayHelloEndpoint\\BoronTrotterESayHelloEndpoint.csproj",
+      "projectPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\SayHelloEndpoint\\BoronTrotterESayHelloEndpoint.csproj",
       "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\BoronTrotterESayHelloEndpoint\\obj\\",
+      "outputPath": "C:\\Users\\Elizabeth\\Desktop\\CodeStack_Projects\\Level2\\Week2\\SayHelloEndpoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config"
