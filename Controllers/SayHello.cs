@@ -6,17 +6,10 @@ namespace BoronTrotterESayHelloEndpoint.Controllers;
 [Route("[controller]")]
 public class SayHelloController : ControllerBase
 {
-    public string greeting = "";
-
-    public SayHelloController()
-    {
-        greeting = "Hello, ";
-    }
-
-    [HttpPost]
+    [HttpGet]
     [Route("AddName/{userName}")]
     public string AddName(string userName)
     {
-        return greeting + userName;
+        return "Hello, " + userName;
     }
 }
