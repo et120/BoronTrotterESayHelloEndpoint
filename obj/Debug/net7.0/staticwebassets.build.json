@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rw8eO5JlgefqcMX3lz+nFn+Z0UasbOFa8fyRk/Y9rUw=",
+  "Source": "BoronTrotterESayHelloEndpoint",
+  "BasePath": "_content/BoronTrotterESayHelloEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
